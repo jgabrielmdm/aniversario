@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'GlobotipoTexto-Bold';
+  src: url('GlobotipoTexto-Bold.eot?#iefix') format('embedded-opentype'),  url('GlobotipoTexto-Bold.otf')  format('opentype'),
+	     url('GlobotipoTexto-Bold.woff') format('woff'), url('GlobotipoTexto-Bold.ttf')  format('truetype'), url('GlobotipoTexto-Bold.svg#GlobotipoTexto-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
